@@ -9,3 +9,4 @@
 ## [ 자료구조 ]
 
 [d0001 공부 계획](https://github.com/sionyum/mystudy/blob/main/data-structure/d0001)
+[d0002 공부 계획](https://github.com/sionyum/mystudy/blob/main/data-structure/d0002)
