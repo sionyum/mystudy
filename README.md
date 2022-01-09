@@ -10,4 +10,4 @@
 
 [d0001 공부 계획](https://github.com/sionyum/mystudy/blob/main/data-structure/d0001)
 
-[d0002 공부 계획](https://github.com/sionyum/mystudy/blob/main/data-structure/d0002)
+[d0002 Part1. 자바스크립트 배열 - () ](https://github.com/sionyum/mystudy/blob/main/data-structure/d0002)
